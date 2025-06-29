@@ -16,7 +16,7 @@
   - IBM Cloud Deployment
 
 - 📫 Connect with me:  
-  [LinkedIn](https://linkedin.com/in/your-link) • [Portfolio](https://your-portfolio-link.com) • [Resume](https://your-resume-link.com)
+  [LinkedIn](https://www.linkedin.com/in/keshav-kabra-183035289/) 
 
 ---
 
@@ -26,6 +26,4 @@
 |--------|-------------|------------|
 | 🧩 [E-commerce Microservice App](https://github.com/Keshavkabra7/CloudMicroservices-e-com) | A scalable e-commerce platform using microservices | Node.js, Express, MongoDB, Docker, Kubernetes |
 | 🛡️ [Policy Insurance Website](https://github.com/Keshavkabra7/Policy_insurance_website) | UI-driven website to manage insurance plans | React.js, HTML, CSS, JavaScript |
-
----
 
