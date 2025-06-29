@@ -24,13 +24,8 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🧩 [E-commerce Microservice App](https://github.com/Keshavkabra7/your-microservices-repo) | A scalable e-commerce platform using microservices | Node.js, Express, MongoDB, Docker, Kubernetes |
-| 🛡️ [Policy Insurance Website](https://github.com/Keshavkabra7/your-insurance-repo) | UI-driven website to manage insurance plans | React.js, HTML, CSS, JavaScript |
+| 🧩 [E-commerce Microservice App](https://github.com/Keshavkabra7/CloudMicroservices-e-com) | A scalable e-commerce platform using microservices | Node.js, Express, MongoDB, Docker, Kubernetes |
+| 🛡️ [Policy Insurance Website](https://github.com/Keshavkabra7/Policy_insurance_website) | UI-driven website to manage insurance plans | React.js, HTML, CSS, JavaScript |
 
 ---
 
-### 📈 GitHub Stats
-
-![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keshavkabra7&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshavkabra7&layout=compact&theme=radical)
