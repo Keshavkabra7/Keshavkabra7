@@ -1,16 +1,36 @@
-## Hi there 👋
+### 👋 Hi, I'm Keshav Kabra
 
-<!--
-**Keshavkabra7/Keshavkabra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 CSE Undergrad @ **IIIT Dharwad** | Batch of 2026
+- 💻 Passionate about **Full Stack Development**, **DevOps**
+- 🛠️ Tech Stack:  
+  `Node.js` `Express` `MongoDB` `React`  
+  `Docker` `Kubernetes` `GitHub Actions` `HTML` `CSS` `JavaScript`
 
-Here are some ideas to get you started:
+- 🚀 Building real-world apps:
+  - 🧩 Microservices-based E-commerce Application
+  - 🛡️ Policy Insurance Website (React + HTML/CSS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☁️ Exploring DevOps & Cloud:
+  - CI/CD pipelines using GitHub Actions
+  - Containerization with Docker
+  - IBM Cloud Deployment
+
+- 📫 Connect with me:  
+  [LinkedIn](https://linkedin.com/in/your-link) • [Portfolio](https://your-portfolio-link.com) • [Resume](https://your-resume-link.com)
+
+---
+
+### 🔥 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🧩 [E-commerce Microservice App](https://github.com/Keshavkabra7/your-microservices-repo) | A scalable e-commerce platform using microservices | Node.js, Express, MongoDB, Docker, Kubernetes |
+| 🛡️ [Policy Insurance Website](https://github.com/Keshavkabra7/your-insurance-repo) | UI-driven website to manage insurance plans | React.js, HTML, CSS, JavaScript |
+
+---
+
+### 📈 GitHub Stats
+
+![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keshavkabra7&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshavkabra7&layout=compact&theme=radical)
